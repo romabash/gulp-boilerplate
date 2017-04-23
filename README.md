@@ -11,6 +11,6 @@
 
 ### Quick Start
 
-Run `npm install` to install required node files
-Run `gulp <task>` to run a specific task
-Run `gulp` to automatically compile scss files, compress images and load Browser-Sync
+- Run `npm install` to install required node files
+- Run `gulp <task>` to run a specific task
+- Run `gulp` to automatically compile scss files, compress images and load Browser-Sync
